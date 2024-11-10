@@ -1,0 +1,227 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Laptop Pro",
+      "product_image": "https://i.ibb.co.com/dM30hbS/image.png",
+      "category": "Laptops",
+      "price": 1200,
+      "description": "High-performance laptop with a powerful processor.",
+      "Specification": [
+        "512GB SSD",
+        "16GB RAM",
+        "Intel i7 Processor"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": "Backlit Keyboard"
+    },
+    {
+      "product_id": 2,
+      "product_title": "Laptop Air",
+      "product_image": "https://i.ibb.co.com/HGGbyyN/image.png",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Lightweight laptop perfect for everyday tasks.",
+      "Specification": [
+        "256GB SSD",
+        "8GB RAM",
+        "Intel i5 Processor"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": "Retina Display"
+    },
+    {
+      "product_id": 3,
+      "product_title": "Gaming Laptop X",
+      "product_image": "https://i.ibb.co.com/MRtcV7p/image.png",
+      "category": "Laptops",
+      "price": 1500,
+      "description": "Gaming laptop with high refresh rate and dedicated GPU.",
+      "Specification": [
+        "1TB SSD",
+        "16GB RAM",
+        "NVIDIA RTX 3060"
+      ],
+      "availability": true,
+      "rating": 3.8,
+      "other_field": "RGB Keyboard"
+    },
+    {
+      "product_id": 4,
+      "product_title": "Laptop Mini",
+      "product_image": "https://i.ibb.co.com/3WRWZKw/image.png",
+      "category": "Laptops",
+      "price": 850,
+      "description": "Compact laptop with long battery life.",
+      "Specification": [
+        "256GB SSD",
+        "8GB RAM",
+        "Intel i3 Processor"
+      ],
+      "availability": false,
+      "rating": 4.3,
+      "other_field": "Touchscreen"
+    },
+    {
+      "product_id": 5,
+      "product_title": "Laptop Max",
+      "product_image": "https://i.ibb.co.com/w4GmhV0/image.png",
+      "category": "Laptops",
+      "price": 2000,
+      "description": "High-end laptop for intensive applications.",
+      "Specification": [
+        "1TB SSD",
+        "32GB RAM",
+        "Intel i9 Processor"
+      ],
+      "availability": true,
+      "rating": 2.9,
+      "other_field": "Ultra HD Display"
+    },
+    {
+      "product_id": 6,
+      "product_title": "Budget Laptop",
+      "product_image": "https://i.ibb.co.com/2txLJM4/image.png",
+      "category": "Laptops",
+      "price": 600,
+      "description": "Affordable laptop with decent performance.",
+      "Specification": [
+        "128GB SSD",
+        "4GB RAM",
+        "Intel Pentium Processor"
+      ],
+      "availability": true,
+      "rating": 4.1,
+      "other_field": "Lightweight Design"
+    },
+    {
+      "product_id": 7,
+      "product_title": "Smartphone 12",
+      "product_image": "https://i.ibb.co.com/W6BrCL0/image.png",
+      "category": "Phones",
+      "price": 799,
+      "description": "Modern smartphone with all-day battery life.",
+      "Specification": [
+        "128GB Storage",
+        "6GB RAM",
+        "Triple Camera"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "other_field": "Fast Charging"
+    },
+    {
+      "product_id": 8,
+      "product_title": "iPhone 13",
+      "product_image": "https://i.ibb.co.com/HTGXVKr/image.png",
+      "category": "iPhone",
+      "price": 999,
+      "description": "Latest iPhone model with A15 chip.",
+      "Specification": [
+        "128GB Storage",
+        "6.1-inch Display",
+        "Dual Camera"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "other_field": "Face ID"
+    },
+    {
+      "product_id": 9,
+      "product_title": "MacBook Pro",
+      "product_image": "https://i.ibb.co.com/PQzsgXW/image.png",
+      "category": "MacBook",
+      "price": 2200,
+      "description": "High-performance MacBook with M1 Pro chip.",
+      "Specification": [
+        "512GB SSD",
+        "16GB RAM",
+        "M1 Pro Chip"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "other_field": "Touch Bar"
+    },
+    {
+      "product_id": 10,
+      "product_title": "Smart Watch Series 7",
+      "product_image": "https://i.ibb.co.com/B4cxLnC/image.png",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "Smart watch with health tracking features.",
+      "Specification": [
+        "Blood Oxygen Monitor",
+        "Heart Rate Monitor",
+        "GPS"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": "Water Resistant"
+    },
+    {
+        "product_id": 11,
+        "product_title": "iPhone 13 Pro",
+        "product_image": "https://i.ibb.co.com/2MDXrQv/image.png",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "Premium iPhone model with triple camera and ProMotion display.",
+        "Specification": [
+          "256GB Storage",
+          "6.1-inch Super Retina XDR Display",
+          "Triple Camera System"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": "Ceramic Shield"
+      },
+      {
+        "product_id": 12,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/b70sPp6/image.png",
+        "category": "MacBook",
+        "price": 999,
+        "description": "Lightweight MacBook with the powerful M1 chip.",
+        "Specification": [
+          "256GB SSD",
+          "8GB RAM",
+          "Apple M1 Chip"
+        ],
+        "availability": true,
+        "rating": 3.8,
+        "other_field": "Fanless Design"
+      },
+      {
+        "product_id": 13,
+        "product_title": "Smart Watch SE",
+        "product_image": "https://i.ibb.co.com/qxF9nRr/image.png",
+        "category": "Smart Watches",
+        "price": 279,
+        "description": "Affordable smart watch with essential features.",
+        "Specification": [
+          "Heart Rate Monitor",
+          "GPS",
+          "Swim Proof"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "other_field": "Fall Detection"
+      },
+      {
+        "product_id": 14,
+        "product_title": "Smartphone Ultra",
+        "product_image": "https://i.ibb.co.com/zGsRftG/image.png",
+        "category": "Phones",
+        "price": 899,
+        "description": "Flagship smartphone with ultra-high resolution display and advanced camera.",
+        "Specification": [
+          "256GB Storage",
+          "8GB RAM",
+          "Quad Camera"
+        ],
+        "availability": true,
+        "rating": 3.8,
+        "other_field": "5G Connectivity"
+      }
+  ]
+  

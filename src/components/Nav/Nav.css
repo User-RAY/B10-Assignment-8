@@ -1,0 +1,5 @@
+.menu li.this a.active {
+    text-decoration: underline;
+    background-color: #9538E2;
+    font-weight: 800;
+  }

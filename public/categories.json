@@ -1,0 +1,33 @@
+[   
+  
+    {
+      "category_id": 1,
+      "category": "All Product"
+    },
+    {
+      "category_id": 2,
+      "category": "Phones"
+    },
+
+    {
+      "category_id": 3,
+      "category": "iPhone"
+    },
+    {
+      "category_id": 4,
+      "category": "MacBook"
+    },
+    {
+      "category_id": 5,
+      "category": "Smart Watches"
+    },
+    {
+      "category_id": 6,
+      "category": "Laptops"
+    },
+    {
+      "category_id": 7,
+      "category": "Earphone"
+    }
+]
+  
